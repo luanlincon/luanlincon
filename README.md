@@ -47,7 +47,6 @@ Sou um estudante de Data Science e altamente motivado pela amplitude de aprendiz
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&https://github.com/luanlincon "Agile")](https://github.com/luanlincon) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&"Scrum")](https://github.com/luanlincon) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&)](https://github.com/luanlincon)
 
 **Version Control:**
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&)](https://github.com/luanlincon)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&)](https://github.com/luanlincon)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&)](https://github.com/luanlincon)
 
