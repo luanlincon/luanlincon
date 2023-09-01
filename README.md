@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/luanlinconbenjamim/">
   <img align="left" alt="Luan Lincon's LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /img>
 </a>
-<a href="mailto:7luanlinconbenjamim@gmail.com">
+<a href="mailto:luanlinconbenjamim@gmail.com">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
 </a>
 
